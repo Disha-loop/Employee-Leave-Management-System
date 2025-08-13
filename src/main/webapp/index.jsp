@@ -21,12 +21,7 @@
       <h1>Employee Leave <br>Management System</h1>
       <p>Welcome to ELMS Application<br>for Indian Railways</p>
      
-      <footer>
-        <small>Version : 3.3.0 | Host : cris.in<br>
-        Languages: English हिंदी<br>
-        © 2024 Centre For Railway Information Systems</small>
-       
-      </footer>
+   
     </div>
 
     <!-- Right Section -->
@@ -59,7 +54,7 @@
         <a href="#">CGA Application Registration</a>
       </div>
 
-      <p class="notice"><strong>⚠ Click here to access APAR Module</strong></p>
+      
     </div>
   </div>
 </body>
