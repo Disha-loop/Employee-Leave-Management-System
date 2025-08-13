@@ -60,7 +60,7 @@ $(document).ready(function () {
 	    <a href="#">CGA Application Registration</a>
 	  </div>
 
-	  <p class="notice"><strong>⚠ Click here to access APAR Module</strong></p>`;
+	 `;
 
 
     setTimeout(function () {
@@ -98,7 +98,7 @@ $(document).ready(function () {
         <a href="#">CGA Application Registration</a>
       </div>
 
-      <p class="notice"><strong>⚠ Click here to access APAR Module</strong></p>`;
+   `;
 
     setTimeout(function () {
       $(".login-box").html(login_template);
@@ -201,6 +201,9 @@ $(document).ready(function () {
 						      }
 						    });
   })
+  
+  
+  
   $(document).on("change", "#leave-type", function() {
 
     	$.ajax({
@@ -229,9 +232,6 @@ $(document).ready(function () {
     						      }
     						    });
       })
-  
-  
-  
   
   
 
